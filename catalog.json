@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Blusa Tableada Buganvilla",
+      "price": 29.99,
+      "description": "Blusa elegante con detalles tableados, ideal para ocasiones formales."
+    },
+    {
+      "name": "Pantalón Casual Beige",
+      "price": 39.99,
+      "description": "Pantalón cómodo y versátil para el día a día."
+    },
+    {
+      "name": "Vestido Largo Rojo",
+      "price": 49.99,
+      "description": "Vestido rojo perfecto para eventos especiales."
+    }
+  ]
+}
